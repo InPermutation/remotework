@@ -1,0 +1,16 @@
+#axis {
+	float:left;
+	width:100px;
+	background-color: #F3F3F3;
+	border-radius: 10px;
+	margin: 5px;
+	padding: 5px;
+}
+
+#axis > a {
+	margin-left: auto;
+	margin-right: auto;
+	width: 80px;
+	display: block;
+}
+
