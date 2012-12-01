@@ -1,0 +1,7 @@
+<div id='axis'>
+	{% for page in site.pages %}
+		{% if page.group == 'axis' %}
+			<a href="{{ BASE_PATH }}{{page.url}}"><img src="{{ BASE_PATH }}/assets/{{page.axislogo}}"/></a>
+		{% endif %}
+	{% endfor %}
+</div>
