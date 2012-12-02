@@ -3,6 +3,7 @@ layout: default
 title: Khan Academy
 group: axis
 axislogo: khan80.png
+remote: 990
 ---
 **The Khan Academy**, located in Mountain View, CA, is biased against remote developers, but is open to it if the
 candidate is right. For example, they would be willing to hire someone right out of college with lots of
