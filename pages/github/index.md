@@ -5,7 +5,8 @@ group: axis
 axislogo: github80.png
 remote: 100
 ---
-**GitHub**, located in San Francisco, CA, has over 130 employees, more than half of whom are remote. The main
+**<a href="http://github.com/about/jobs">GitHub</a>**,
+located in San Francisco, CA, has over 130 employees, more than half of whom are remote. The main
 office in San Francisco is not just wifi, desks, and chairs, either - there are beers on tap, video games,
 dogs, motorcycles, and a 
 <a href="http://www.businessinsider.com/github-office-tour-2012-8?op=1">no-technology-allowed "Thinking Room"</a>.
