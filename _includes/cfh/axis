@@ -1,5 +1,5 @@
 <div id='axis'>
   {% for r in (100..999) %}{% for page in site.pages %}{% if page.remote == r %}
-    <a href="{{ BASE_PATH }}{{page.url}}"><img src="{{ BASE_PATH }}/assets/{{page.axislogo}}"/></a>
+    <a href="{{ BASE_PATH }}{{page.url}}"><img src="{{ BASE_PATH }}/assets/{{page.axislogo}}" alt="{{page.title}}" title="{{page.title}}"/></a>
   {% endif %}{% endfor %}{% endfor %}
 </div>
