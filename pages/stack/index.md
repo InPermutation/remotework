@@ -3,7 +3,7 @@ layout: default
 title: Stack Exchange
 group: axis
 axislogo: stack80.png
-remote: 100
+remote: 150
 ---
 **<a href="http://stackexchange.com/about/hiring">Stack Exchange</a>**,
 located in New York, NY, has over 60 employees. Founder *emeritus* Jeff Atwood's
